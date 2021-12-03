@@ -4,13 +4,13 @@
 	"values": [
 		{
 			"key": "hostname",
-			"value": "thesbuild.gateway.webmethodscloud.de",
+			"value": "aronplaybuild.gateway.webmethodscloud.de",
 			"type": "text",
 			"enabled": true
 		},
 		{
 			"key": "ip",
-			"value": "thesbuild.gateway.webmethodscloud.de",
+			"value": "aronplaybuild.gateway.webmethodscloud.de",
 			"type": "text",
 			"enabled": true
 		},
